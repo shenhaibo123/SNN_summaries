@@ -1,7 +1,5 @@
 # SNN_summaries
-this repository record my  learning in spiking neural network, and this is 
-
-arxiv daily
+this repository record my  learning in spiking neural network, and [this](https://github.com/shenhaibo123/SNN_arxiv_daily) is my subscriptions of SNN daily in arxiv.
 
 ## Combined With Event Camera 
 
