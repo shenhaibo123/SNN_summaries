@@ -12,7 +12,7 @@ this repository record my  learning in spiking neural network, and [this](https:
 
 
 
-### [**Papers**](  "each paper is tried to be organized as [year] [trans/meeting] [first author]  name  [paper_link with note from youdao] [code] [notes] ")
+### [**Papers**](https://github.com/shenhaibo123/SNN_summaries#Papers "each paper is tried to be organized as [year] [trans/meeting] [first author]  name  [paper_link with note from youdao] [code] [notes] ")
 
 #### `HMAX`
 
